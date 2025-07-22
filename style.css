@@ -1,0 +1,38 @@
+/* Reset some default margins and paddings */
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Heading style */
+h1 {
+    color: #0056b3;
+    font-size: 2em;
+}
+
+/* Paragraphs */
+p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Container box */
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
